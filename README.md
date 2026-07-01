@@ -26,12 +26,12 @@
 
 ## APP支持平台
 
-- [x] Android
-- [x] iOS
-- [x] Windows `BETA`
+- [x] iPhone / iPad
 - [x] MacOS `BETA`
-- [x] Linux `BETA`
-- [x] Android TV `BETA`
+- [ ] Android `暂时禁用`
+- [ ] Windows `暂时禁用`
+- [ ] Linux `暂时禁用`
+- [ ] Android TV `暂时禁用`
 
 ## 项目结构
 
